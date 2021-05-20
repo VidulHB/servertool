@@ -2,9 +2,7 @@ html{
   height: 100%;
 }
 body{
-  background: #B2FEFA;
-background: -webkit-linear-gradient(to right, #0ED2F7, #B2FEFA);
-background: linear-gradient(to right, #0ED2F7, #B2FEFA);
+  background: #17ffe9;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
